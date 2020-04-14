@@ -15,7 +15,7 @@ contract FarmerRole {
   Roles.Role private farmers;
 
   // In the constructor make the address that deploys this contract the 1st farmer
-  constructor() public {
+  constructor() public{
     _addFarmer(msg.sender);
   }
 
