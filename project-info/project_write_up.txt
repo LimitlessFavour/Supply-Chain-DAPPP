@@ -1,3 +1,26 @@
+
+Libraries used:
+
+truffle v5.1.2 - To develop,test and deploy smart contracts.
+truffle-assertions v0.9.2 - To make assertions.
+web3 v1.2.6 - To connect to the Ethereum network.
+dotenv v8.2.0 - To protect my seed and key(env variables)
+truffle-hdwallet-provider v1.0.17 - To sign transactions before sending them to the public network.
+
+
+IPFS used to host Front-End App.
+
+PS C:\Users\Limitless\Desktop\Ethereum DAPP Supply Chain\project-6> ipfs add -r dist
+added QmQtabcDu4LQupei7GvEe7GRefSsas9sYDgPu6bTwNicrt dist/index.html
+added QmeUVfjuSAJ169owYfx5AX1YvSENqgchB2H87MjbRMF3js dist/src/js/app.js
+added QmWSAhAihumy7wvnv6kbGfUKkEEVdG1EqVbMAR8bnTbAU9 dist/src/js/truffle-contract.js
+added QmT6hpj3kgkvxocCJVUKAJJS66F77dWkFc5VbV6B2DihvM dist/style.css
+dded QmbqZ8mvvYSvqMCfRmV3886gGdMsgJsph6aZ9epCQ5RVXi dist/src/js
+dded QmbH6yf645HjmaUa6BgbrDTWAAhYFA8fPxqWRqPvFmbNj6 dist/src
+dded QmXwR6fNMLSK2PXX3hbjigRGXNr8nhi8BRpRFCULdCTNLD dist
+
+Published to Qme9y8xQspLqZ8YuAjSE2bA34GHdUgvBWH4t2Q553C4ZXr: /ipfs/QmXwR6fNMLSK2PXX3hbjigRGXNr8nhi8BRpRFCULdCTNLD
+
 Starting migrations...
 ======================
 > Network name:    'rinkeby'

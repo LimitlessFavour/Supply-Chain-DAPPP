@@ -23,7 +23,7 @@ to make the web faster, safer, and more open.
 
 ## Authors
 
-See also the list of [contributors](https://github.com/your/project/contributors.md) who participated in this project.
+See also the list of [contributors](https://github.com/Limitless19/Supply-Chain-DAPPP/contributors.md) who participated in this project.
 
 ## Development Notes
 
@@ -33,7 +33,7 @@ Node v12.16.2<br>
 Web3.js v1.2.1<br>
 
 ## Project-Info
-Check the project-info folder for the Uml diagrams,rinkeby network contract addresses and transaction hashes.
+Check the project-info folder for the Uml diagrams,libraries used,rinkeby network contract addresses and transaction hashes.
 
 ## Acknowledgments
 
